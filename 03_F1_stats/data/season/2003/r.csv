@@ -1,0 +1,17 @@
+;race_idx;race_name;ALO;BAR;BUT;COU;DMA;FIR;FIS;FRE;HEI;MON;PAN;PIZ;RAI;MSC;RSC;TRU;VER;VIL;WEB;WIL
+0;1;AUS;7;ab;10;1;ab;ab;12;6;ab;2;ab;13;3;4;8;5;11;9;ab;ab
+1;2;MYS;3;2;7;ab;11;10;ab;9;8;12;ab;ab;1;6;4;5;13;np;ab;ab
+2;3;BRA;3;ab;ab;4;10;ab;1;5;ab;ab;ab;ab;2;ab;7;8;ab;6;9;ab
+3;4;SMR;6;3;8;5;12;ab;15;11;10;7;9;14;2;1;4;13;ab;ab;ab;ab
+4;5;ESP;2;3;9;ab;6;8;ab;ab;10;4;ab;ab;ab;1;5;ab;12;ab;7;11
+5;6;AUT;ab;3;4;5;10;11;ab;np;ab;ab;ab;9;2;1;6;8;ab;12;7;13
+6;7;MCO;5;8;np;7;9;12;10;ab;11;1;13;ab;2;3;4;6;ab;ab;ab;ab
+7;8;CAN;4;5;ab;ab;11;ab;ab;ab;ab;3;8;10;6;1;2;ab;9;ab;7;ab
+8;9;EUR;4;3;7;15;ab;11;12;9;8;2;ab;10;ab;5;1;ab;14;ab;6;13
+9;10;FRA;ab;7;ab;5;11;15;ab;12;13;2;8;10;4;3;1;ab;16;9;6;14
+10;11;GBR;ab;1;8;5;7;13;ab;12;17;2;11;ab;3;4;9;6;15;10;14;16
+11;12;DEU;4;ab;8;2;6;ab;13;ab;10;1;5;-;ab;7;ab;3;ab;9;11;ab
+12;13;HUN;1;ab;10;5;11;f;ab;ab;9;3;ab;-;2;8;4;7;12;ab;6;ab
+13;14;ITA;8;3;ab;ab;ab;-;10;13;9;2;ab;-;4;1;f;ab;ab;6;7;ab
+14;15;USA;ab;ab;ab;ab;9;ab;7;3;5;6;ab;-;2;1;ab;4;10;ab;ab;8
+15;16;JPN;ab;1;4;3;7;14;ab;ab;9;ab;10;-;2;8;12;5;15;-;11;13
