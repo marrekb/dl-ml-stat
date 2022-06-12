@@ -9,5 +9,5 @@ df2 = df.iloc[mid:]
 
 print(df.shape[0], df1.shape[0], df2.shape[0])
 
-df1.to_csv('enc_ext_dataset1.csv', sep = ';')
-df2.to_csv('enc_ext_dataset2.csv', sep = ';')
+df1.to_csv('enc_ext_dataset1.csv', sep = ';', index = False)
+df2.to_csv('enc_ext_dataset2.csv', sep = ';', index = False)
