@@ -5,7 +5,6 @@ import argparse
 import utils.lapbylap as lapbylap
 import utils.report as report
 import utils.charts as charts
-
 import seaborn as sns
 sns.set()
 
@@ -22,10 +21,10 @@ def check_driver(found):
             year = str(args.year)
         ))
 
-if __name__ == '__main__':
+if __name__ == '__main__': # show driver
     parser = argparse.ArgumentParser()
     parser.add_argument('-y', '--year', type = acceptable_int,
-                        help = 'season year', default = 2000)
+                        help = 'season year', default = 2010)
     parser.add_argument('-d', '--driver', type = str, help = 'name of driver',
                         default = 'MSC')
     parser.add_argument('-c', '--count', type = acceptable_int, default = 20,
