@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 import os
 
+# test comment
 def get_driver_probs(year: int, driver: str, count_of_drivers: int, type: str):
     res = np.zeros(count_of_drivers + 1, dtype = np.int)
     path = 'data/season/' + str(year) + '/' + type + '.csv'
